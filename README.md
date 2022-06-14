@@ -6,4 +6,4 @@ Rudy is stuck in the middle of the ocean. Help him dodge the falling meteors and
 ### Play
 Swipe `left` or `right` to slow-down or speed-up the Jetski to dodge meteors.
 
-Click here to Play.  [PLAY](https://github.com/Prateekbharatwal/JetSki_2D_Game/blob/main/index.html) 
+Click here to Play.  [PLAY](https://github.com/Prateekbharatwal/JetSkii) 
