@@ -338,7 +338,7 @@ function mousePressed() {
                     title: 'My Score',
                     text: 'Beat my Score !',
                     //url: 'https://ahmedazhar05.github.io/JetSkii',
-                    url: 'https://github.com/Prateekbharatwal/JetSki_2D_Game.git'
+                    url: 'https://prateekbharatwal.github.io/JetSkii/',
                 })
                 .then(loop(), loop());
             } else {
@@ -436,7 +436,8 @@ function keyPressed() {
                     files: [new File([blob], 'JetSkii.jpeg', {type:'image/jpeg'})],
                     title: 'My Score',
                     text: 'Beat my Score !',
-                    url: 'https://ahmedazhar05.github.io/JetSkii',
+                    //url: 'https://ahmedazhar05.github.io/JetSkii',
+                    url: 'https://prateekbharatwal.github.io/JetSkii/',
                 })
                 .then(loop(), loop());
             } else{
